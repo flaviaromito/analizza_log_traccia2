@@ -1,0 +1,230 @@
+{
+   "00001": {
+      "eventi_diversi": [
+         "Visualizzato corso",
+         "Aggiunto tag ad un elemento",
+         "Aggiornato completamento attivit\u00e0 del corso",
+         "Visualizzato tentativo quiz",
+         "Visualizzato report log"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato report log": 2,
+         "Visualizzato corso": 2,
+         "Visualizzato tentativo quiz": 1,
+         "Aggiunto tag ad un elemento": 2,
+         "Aggiornato completamento attivit\u00e0 del corso": 2
+      }
+   },
+   "00002": {
+      "eventi_diversi": [
+         "Aggiornato completamento attivit\u00e0 del corso",
+         "Visualizzato corso",
+         "Visualizzato modulo corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato modulo corso": 4,
+         "Aggiornato completamento attivit\u00e0 del corso": 5,
+         "Visualizzato corso": 1
+      }
+   },
+   "00003": {
+      "eventi_diversi": [
+         "Eliminata valutazione",
+         "Disiscritto utente dal corso"
+      ],
+      "conteggio_eventi": {
+         "Disiscritto utente dal corso": 1,
+         "Eliminata valutazione": 1
+      }
+   },
+   "00004": {
+      "eventi_diversi": [
+         "Visualizzato corso",
+         "Visualizzato modulo corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato corso": 2,
+         "Visualizzato modulo corso": 2
+      }
+   },
+   "00005": {
+      "eventi_diversi": [
+         "Aggiornato completamento attivit\u00e0 del corso",
+         "Visualizzato corso",
+         "Visualizzato modulo corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato modulo corso": 7,
+         "Visualizzato corso": 4,
+         "Aggiornato completamento attivit\u00e0 del corso": 2
+      }
+   },
+   "00008": {
+      "eventi_diversi": [
+         "Visualizzato corso",
+         "Visualizzato modulo corso",
+         "Visualizzato elenco utenti",
+         "Eliminata valutazione",
+         "Revocato ruolo",
+         "Rimosso membro del gruppo"
+      ],
+      "conteggio_eventi": {
+         "Eliminata valutazione": 3,
+         "Rimosso membro del gruppo": 1,
+         "Revocato ruolo": 1,
+         "Visualizzato corso": 4,
+         "Visualizzato elenco utenti": 1,
+         "Visualizzato modulo corso": 3
+      }
+   },
+   "00009": {
+      "eventi_diversi": [
+         "Visualizzato corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato corso": 2
+      }
+   },
+   "00010": {
+      "eventi_diversi": [
+         "Visualizzato corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato corso": 1
+      }
+   },
+   "00011": {
+      "eventi_diversi": [
+         "Visualizzato corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato corso": 2
+      }
+   },
+   "00012": {
+      "eventi_diversi": [
+         "Eliminata valutazione"
+      ],
+      "conteggio_eventi": {
+         "Eliminata valutazione": 1
+      }
+   },
+   "00013": {
+      "eventi_diversi": [
+         "Visualizzato tentativo quiz"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato tentativo quiz": 3
+      }
+   },
+   "00014": {
+      "eventi_diversi": [
+         "Visualizzato tentativo quiz"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato tentativo quiz": 3
+      }
+   },
+   "00015": {
+      "eventi_diversi": [
+         "Visualizzato corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato corso": 1
+      }
+   },
+   "00082": {
+      "eventi_diversi": [
+         "Visualizzato modulo corso",
+         "Aggiornato completamento attivit\u00e0 del corso"
+      ],
+      "conteggio_eventi": {
+         "Aggiornato completamento attivit\u00e0 del corso": 4,
+         "Visualizzato modulo corso": 1
+      }
+   },
+   "00098": {
+      "eventi_diversi": [
+         "Avviato tentativo quiz",
+         "Visualizzato modulo corso"
+      ],
+      "conteggio_eventi": {
+         "Avviato tentativo quiz": 1,
+         "Visualizzato modulo corso": 1
+      }
+   },
+   "00059": {
+      "eventi_diversi": [
+         "Visualizzato tentativo quiz",
+         "Aggiornato completamento attivit\u00e0 del corso",
+         "Avviato tentativo quiz",
+         "Visualizzato modulo corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato tentativo quiz": 4,
+         "Avviato tentativo quiz": 1,
+         "Visualizzato modulo corso": 1,
+         "Aggiornato completamento attivit\u00e0 del corso": 3
+      }
+   },
+   "00097": {
+      "eventi_diversi": [
+         "Visualizzato riepilogo del quiz",
+         "Valutato utente",
+         "Inviato tentativo quiz",
+         "Effettuata revisione tentativo quiz",
+         "Visualizzato tentativo quiz"
+      ],
+      "conteggio_eventi": {
+         "Effettuata revisione tentativo quiz": 1,
+         "Inviato tentativo quiz": 1,
+         "Valutato utente": 2,
+         "Visualizzato riepilogo del quiz": 1,
+         "Visualizzato tentativo quiz": 5
+      }
+   },
+   "00040": {
+      "eventi_diversi": [
+         "Visualizzato tentativo quiz"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato tentativo quiz": 1
+      }
+   },
+   "00007": {
+      "eventi_diversi": [
+         "Aggiornato completamento attivit\u00e0 del corso"
+      ],
+      "conteggio_eventi": {
+         "Aggiornato completamento attivit\u00e0 del corso": 1
+      }
+   },
+   "00035": {
+      "eventi_diversi": [
+         "Visualizzato modulo corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato modulo corso": 2
+      }
+   },
+   "00025": {
+      "eventi_diversi": [
+         "Visualizzato corso"
+      ],
+      "conteggio_eventi": {
+         "Visualizzato corso": 1
+      }
+   },
+   "00050": {
+      "eventi_diversi": [
+         "Creato corso",
+         "Creato evento di calendario",
+         "Aggiunto tag ad un elemento"
+      ],
+      "conteggio_eventi": {
+         "Creato evento di calendario": 1,
+         "Aggiunto tag ad un elemento": 1,
+         "Creato corso": 1
+      }
+   }
+}
